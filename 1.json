@@ -1,0 +1,38 @@
+{
+  "type": "GeometryCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "blue",
+        "name":"Shansplminc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [-5.00, 57.00], [-5.00,57.00], [-5.00,57.00],[-2.52,57.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "red",
+        "name":"Reece Cargan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [-5.52, 57.55],[-5.52, 57.55]
+          ]
+        ]
+      }
+    }
+   ]
+}
+
+
+    
